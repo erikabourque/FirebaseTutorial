@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1055077225825",
+    "firebase_url": "https://todo-c60ea.firebaseio.com",
+    "project_id": "todo-c60ea",
+    "storage_bucket": "todo-c60ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055077225825:android:55b1e64a943289b8",
+        "android_client_info": {
+          "package_name": "com.erikabourque.FirebaseTutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055077225825-t9esa8a0rgfba4kefsrtnms2kk07j903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHj8Ip41BdLfMq2k0r8d382lAN5onvUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055077225825:android:f26a3cc4809fce0f",
+        "android_client_info": {
+          "package_name": "com.erikabourque.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055077225825-t9esa8a0rgfba4kefsrtnms2kk07j903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHj8Ip41BdLfMq2k0r8d382lAN5onvUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
